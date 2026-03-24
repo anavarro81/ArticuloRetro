@@ -1,2 +1,2 @@
-# ArticuloRetro
-CAS-TRAINING_IFCD0110 - Ejercicio 16_1: Página Retro
+Blog retro
+Clase 16.1
